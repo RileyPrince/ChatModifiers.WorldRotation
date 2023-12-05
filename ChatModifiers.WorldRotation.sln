@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatModifiers.WorldRotation", "ChatModifiers.WorldRotation\ChatModifiers.WorldRotation.csproj", "{C9C58448-2FC3-438B-8A71-F16947AFC2FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9C58448-2FC3-438B-8A71-F16947AFC2FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9C58448-2FC3-438B-8A71-F16947AFC2FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9C58448-2FC3-438B-8A71-F16947AFC2FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9C58448-2FC3-438B-8A71-F16947AFC2FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBF34853-E955-4853-8071-FB65D387307D}
+	EndGlobalSection
+EndGlobal
